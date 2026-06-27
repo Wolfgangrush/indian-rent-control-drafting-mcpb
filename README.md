@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.png" width="820"/>
+
+**Six agents, one disciplined pipeline — drafting for India's Rent Controllers, Courts of Small Causes, Rent Authorities, and Rent Tribunals.**
+
+Visit the live site: [wolfgangrush.github.io](https://wolfgangrush.github.io)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Claude MCP bundle](https://img.shields.io/badge/Claude-MCP%20bundle-8A2BE2)
+![Pipeline: 6-agent](https://img.shields.io/badge/pipeline-6--agent-blue)
+![Jurisdiction: India](https://img.shields.io/badge/jurisdiction-India-FF9933)
+
+</div>
+
+
 # wolfgang_rush — Indian Rent Control Drafting
 
 **MCPB Desktop Extension** for Indian advocates using Claude Desktop App. Local-execution. Zero data collection.
