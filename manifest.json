@@ -13,10 +13,10 @@
   "homepage": "https://wolfgangrush.github.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wolfgangrush/indian-rent-control-drafting-mcpb"
+    "url": "https://github.com/Wolfgangrush"
   },
-  "documentation": "https://github.com/Wolfgangrush/indian-rent-control-drafting-mcpb/blob/main/README.md",
-  "support": "https://github.com/Wolfgangrush/indian-rent-control-drafting-mcpb/issues",
+  "documentation": "https://wolfgangrush.github.io",
+  "support": "mailto:advrushikeshravindramahajan@gmail.com",
   "icon": "icon.png",
   "license": "MIT",
   "keywords": [
